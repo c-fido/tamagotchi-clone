@@ -30,7 +30,7 @@ A C++17 terminal-based virtual pet game inspired by the classic Tamagotchi. Rais
 
 ```bash
 # Clone the repository
-git clone https://github.com/cfido/termitama.git
+git clone https://github.com/c-fido/termitama.git
 cd termitama
 
 # Create a build directory and compile
